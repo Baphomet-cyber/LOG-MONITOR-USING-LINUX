@@ -1,6 +1,4 @@
 # LOG-MONITOR-USING-LINUX
-#!/usr/bin/env python3
-
 import os
 import time
 import subprocess
@@ -166,3 +164,4 @@ def monitor_logs():
 
 if __name__ == '__main__':
     monitor_logs()
+
